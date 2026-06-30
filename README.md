@@ -1,4 +1,4 @@
-# Dashboard Análisis Maquinaria Portuaria
+# Dashboard de Análisis de Maquinaria Portuaria
 
 ## Descripción
 
